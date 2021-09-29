@@ -1,0 +1,5 @@
+selenium==3.141.0
+openpyxl==3.0.7
+
+PyAutoGUI~=0.9.53
+validators~=0.18.2
